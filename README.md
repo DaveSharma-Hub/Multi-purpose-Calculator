@@ -1,5 +1,6 @@
 # Multi-purpose-Calculator
 Multi-purpose Calculator that can calculate using basic operations, in addition to logical calculations(OR/ANDS) and a definite integral calculator using an iterative approach
+
 Try it out: https://davesharma-hub.github.io/Multi-purpose-Calculator/
 
 Sample:
